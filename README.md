@@ -1,0 +1,1 @@
+# linux-shell-harf-notu-hesaplama

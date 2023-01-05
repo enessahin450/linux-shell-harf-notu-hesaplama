@@ -42,10 +42,3 @@ else
   harfNotu $sonuc
  fi
 fi
-
-
-#echo $vize $final
-
-#echo $vizeOrt $finalOrt
-
-#echo $sonuc
